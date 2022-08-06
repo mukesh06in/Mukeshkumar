@@ -1,0 +1,105 @@
+Mukesh Kumar
+Sriniwaspuri, New Delhi
++91-8864948390 | mukesh06in@gmail.com
+
+OBJECTIVE	
+Technical support professional with extensive IT background Enjoys troubleshooting to find solutions to technical issues with 17+ years experience. Seeking a position as a Linux Administrator & Networking, specialized in Red Hat Linux, CentOs.
+EXPERIENCE
+•	Techtreno Solutions						            	      April 2016 – Till working
+Linux System Administrator
+•	Maintenance of LINUX servers.
+•	OS installation in LINUX servers.
+•	Troubleshooting O/S (LINUX) related problems.
+•	Advanced User/Group Administration.
+•	Implementing various security tools like SETUID, SETGID and STICKY BIT on file system for secure access.
+•	Configuring and Maintaining the Disk Quotas and ACLs for users.
+•	Creating and Managing the File Systems.
+•	Configuring the LVM and extended the logical volumes online.
+•	Sound knowledge of installing and configuring servers
+•	Configuration of Network resources, adding & configuring Virtual NIC.
+•	Install, update and upgrade the packages using with rpm, yum and dnf tools.
+•	Installation and configurations of DHCP and DNS (Domain Name System) Servers.
+•	Installation and configurations of Apache Web Server & Tomcat Server in RHEL 6, 7 and 8
+•	Monitor the system performance for better performance, monitor and control user process.
+•	Configuration of Remote Access utilities, providing user access control on services like telnet, ftp and ssh.
+•	Monitoring the Servers performance using with performance monitoring tools like top and ps, Grafana, Kibana etc.
+•	Managing AWS cloud services, managing AMI roles, E2 instances, ELB science, S3 bucket. Around one year of experience.
+•	Working with Shell Scripting (bash), writing scripts for automation of simple admin tasks. 
+ 
+
+•	IT Square Pvt. Ltd						             	       April 2011 – March 2016
+Network Support Engineer
+•	Responsible for installing, configuring the LAN, WAN and Internet system of the organization.
+•	Responsible for maintaining software, hardware and network.
+•	Monitors network to ensure the availability to network to all system users.
+•	Plans, coordinates and implements various network security measures.
+•	Monitoring network usage.
+•	Managing email, anti-spam and virus protection.
+•	Setting up user accounts, permissions and passwords.
+•	Ensuring that all IT equipment complies with industry standards.
+•	Analyzing and resolving faults, ranging from a major system crash to a forgotten password.
+•	Providing training and technical support for users with varying levels of IT knowledge and competence.
+•	Undertaking routine preventative measures and implementing, maintaining and monitoring network security.
+•	Monitoring the use of the web by employees.
+•	Develops measures to prevent unauthorized modification and to regulate access to computer data files.
+•	Performs other essential tasks as required by the organization.
+
+•	Super Soft Pvt. Ltd							                August 2004 – March 2011
+Desktop Support Engineer
+•	Installation & Upgradation of various patch and OS.
+•	Configure Application & Monitoring tools.
+•	User Administration.
+•	Server Monitoring.
+•	Monitoring logs.
+•	System maintenances and troubleshooting.
+•	Network Troubleshooting.
+o	Address user tickets regarding hardware, software and networking
+o	Walk customers through installing applications and computer peripherals
+o	Ask targeted questions to diagnose problems
+o	Guide users with simple, step-by-step instructions
+o	Conduct remote troubleshooting.
+
+
+
+
+
+EDUCATION
+
+•	Dr. B.R. Ambedkar University										  2003
+Bachelor of Computer Application
+
+•	CBSE Board												  2000
+10+2
+
+•	CBSE Board												  1998
+High School
+
+TECHNICAL SKILLS
+•	Operating System:- RHEL 6 &7, CentOS 6 & 7, Ubuntu
+File sharing services:- FTP, NFS, SAMBA
+Mail Messaging Server:- Sendmail & Postfix
+Storage:- Logical Volume Manager, ISCSI remote storage
+Monitoring tools:- Nagios
+Web Server:- Apache & Tomcat
+Security Products:- SELinux, Iptables, Firewall.
+Basic knowledge of AWS, Docker, Shell Scripting, Ansible
+ADDITIONAL INFORMATION
+•	Ready to work 24x7 or shifts.
+
+•	Work from Home till Pandemic.
+
+•	Immediate Joiner.
+
+
+
+PERSONAL DETAILS
+Date of Birth: 06/08/1982
+Married Status: Married
+Language Known: Hindi and English
+Pan Card: BDEPK7636Q
+
+DECLARATIONS
+•	? I hereby declare that the information furnished above is true to the best of my knowledge.
+
+
+(Mukesh Kumar)
